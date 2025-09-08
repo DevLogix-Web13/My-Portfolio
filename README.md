@@ -1,4 +1,4 @@
-# Welcome to your DevLogix project
+# Welcome to DevLogix_Web
 
 ## Project info
 
@@ -41,4 +41,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
 
