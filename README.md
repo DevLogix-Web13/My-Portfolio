@@ -31,7 +31,7 @@ Technical Implementation:
 * Responsive design optimized for all devices
 * SEO-optimized with proper meta tags and semantic HTML
 
-**URL**: 
+**URL**: https://github.com/DevLogix-Web13/My-Portfolio.git
 
 ## What technologies are used for this project?
 
@@ -41,3 +41,4 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
